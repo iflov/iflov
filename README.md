@@ -1,7 +1,7 @@
 ### Hi there I'm Web Backend Developer Using Javascript
 Sometimes I develop cross-platforms like Nest & TypeScript 
 
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/>
 
 
 <!--
