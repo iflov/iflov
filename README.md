@@ -1,5 +1,5 @@
-###제목
-### 내용
+### 이현태
+### 사람과의 소통과 커뮤니케이션을 중시하는 경청하는 개발자 이현태입니다
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=000000"/><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=000000"/><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=000000"/><img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJS&logoColor=000000"/>
 
