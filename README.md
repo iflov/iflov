@@ -8,7 +8,8 @@
   <samp>
     <a href="https://iflov-github-io.vercel.app">blog</a> .
     <a href="https://iflov-github-io.vercel.app/about">about</a> .
-    <a href="https://iflov-github-io.vercel.app/rss.xml">rss</a>
+    <a href="https://iflov-github-io.vercel.app/rss.xml">rss</a> .
+    <a href="https://www.linkedin.com/in/%ED%98%84%ED%83%9C-%EC%9D%B4-176852270/">linkedin</a>
   </samp>
 </p>
 
