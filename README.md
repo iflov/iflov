@@ -40,8 +40,7 @@
 
 ## 최근 글
 
-<!-- BLOG-POST-LIST:START -->
-- [다이어그램을 비교했더니 달러 기호가 사라졌다](https://iflov-github-io.vercel.app/blog/archify-delta-dollar-labels) · 2026.09.21
+<!-- BLOG-POST-LIST:START -->- [다이어그램을 비교했더니 달러 기호가 사라졌다](https://iflov-github-io.vercel.app/blog/archify-delta-dollar-labels) · 2026.09.21
 - [exports 한 줄, except 한 줄, 그리고 내가 닫은 PR 하나](https://iflov-github-io.vercel.app/blog/one-line-open-source-contributions) · 2026.08.31
 - [WebRTC × ZeroMQ × GPU Worker — 실시간 영상 AI를 클라우드로 옮긴 결정들](https://iflov-github-io.vercel.app/blog/webrtc-zeromq-gpu-worker-distributed-system) · 2026.05.21
 - [K6 기반 부하 테스트 플랫폼을 GitOps-ready 구조로 확장하기](https://iflov-github-io.vercel.app/blog/k6-gitops-load-testing-platform) · 2026.05.20
