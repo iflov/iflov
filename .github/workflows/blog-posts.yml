@@ -1,0 +1,26 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
+        with:
+          feed_list: "https://iflov-github-io.vercel.app/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url) · $date$newline"
+          date_format: "UTC:yyyy.mm.dd"
+          enable_keepalive: false
+          commit_message: "docs: 블로그 최신 글 목록 갱신"
