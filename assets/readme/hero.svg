@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">이현태 — Backend Developer</title>
+  <title id="title">이현태, Backend Developer</title>
   <desc id="desc">TypeScript, Node.js, NestJS로 백엔드를 개발하는 이현태. 오른쪽에는 대화 말풍선에서 나온 요구가 Controller, Service, Repository 계층으로 정리되는 모습이 그려져 있다.</desc>
 
   <rect width="1200" height="340" rx="24" fill="#111113"/>

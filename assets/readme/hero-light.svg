@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">이현태, Backend Developer</title>
+  <desc id="desc">TypeScript, Node.js, NestJS로 백엔드를 개발하는 이현태. 오른쪽에는 대화 말풍선에서 나온 요구가 Controller, Service, Repository 계층으로 정리되는 모습이 그려져 있다.</desc>
+
+  <rect width="1200" height="340" rx="24" fill="#FAF8F3"/>
+
+  <g id="title-block" transform="translate(64 20)" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif">
+    <text x="0" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="2" fill="#6E6B64">BACKEND DEVELOPER</text>
+    <text x="0" y="168" font-size="80" font-weight="800" fill="#1C1C1F" letter-spacing="-1">이현태</text>
+    <rect x="0" y="192" width="64" height="6" rx="3" fill="#E0234E"/>
+    <text x="0" y="248" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#6E6B64">TypeScript · Node.js · NestJS</text>
+  </g>
+
+  <g id="motif" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <!-- speech bubble -->
+    <g transform="translate(660 92)">
+      <path d="M0 16 a16 16 0 0 1 16 -16 h160 a16 16 0 0 1 16 16 v88 a16 16 0 0 1 -16 16 h-112 l-28 24 v-24 h-20 a16 16 0 0 1 -16 -16 z" fill="none" stroke="#1C1C1F" stroke-width="2"/>
+      <g fill="#6E6B64">
+        <rect x="24" y="30" width="120" height="10" rx="5"/>
+        <rect x="24" y="54" width="144" height="10" rx="5"/>
+        <rect x="24" y="78" width="88" height="10" rx="5"/>
+      </g>
+    </g>
+
+    <path d="M872 152 L 924 152" stroke="#E0234E" stroke-width="2.5" fill="none"/>
+    <path d="M916 144 L 926 152 L 916 160" stroke="#E0234E" stroke-width="2.5" fill="none" stroke-linejoin="round"/>
+
+    <!-- layers -->
+    <g font-size="20" fill="#1C1C1F">
+      <g transform="translate(944 72)">
+        <rect width="196" height="48" rx="10" fill="#FFFFFF" stroke="#D6D2C8" stroke-width="2"/>
+        <text x="20" y="31">Controller</text>
+      </g>
+      <g transform="translate(944 132)">
+        <rect width="196" height="48" rx="10" fill="#FFFFFF" stroke="#E0234E" stroke-width="2"/>
+        <text x="20" y="31">Service</text>
+      </g>
+      <g transform="translate(944 192)">
+        <rect width="196" height="48" rx="10" fill="#FFFFFF" stroke="#D6D2C8" stroke-width="2"/>
+        <text x="20" y="31">Repository</text>
+      </g>
+    </g>
+  </g>
+</svg>
