@@ -20,6 +20,7 @@ jobs:
           feed_list: "https://iflov-github-io.vercel.app/rss.xml"
           max_post_count: 5
           template: "- [$title]($url) · $date$newline"
+          tag_post_pre_newline: true
           date_format: "UTC:yyyy.mm.dd"
           enable_keepalive: false
           commit_message: "docs: 블로그 최신 글 목록 갱신"
