@@ -4,12 +4,11 @@
 
   <rect width="1200" height="340" rx="24" fill="#111113"/>
 
-  <g id="title-block" transform="translate(64 0)" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif">
+  <g id="title-block" transform="translate(64 20)" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif">
     <text x="0" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="2" fill="#8A8780">BACKEND DEVELOPER</text>
     <text x="0" y="168" font-size="80" font-weight="800" fill="#F4F1EA" letter-spacing="-1">이현태</text>
     <rect x="0" y="192" width="64" height="6" rx="3" fill="#E0234E"/>
-    <text x="0" y="248" font-size="28" font-weight="600" fill="#F4F1EA">듣고 정리해서 API로 만듭니다</text>
-    <text x="0" y="292" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8A8780">TypeScript · Node.js · NestJS</text>
+    <text x="0" y="248" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#8A8780">TypeScript · Node.js · NestJS</text>
   </g>
 
   <g id="motif" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
