@@ -46,6 +46,7 @@
 - [WebRTC × ZeroMQ × GPU Worker — 실시간 영상 AI를 클라우드로 옮긴 결정들](https://iflov-github-io.vercel.app/blog/webrtc-zeromq-gpu-worker-distributed-system) · 2026.05.21
 - [K6 기반 부하 테스트 플랫폼을 GitOps-ready 구조로 확장하기](https://iflov-github-io.vercel.app/blog/k6-gitops-load-testing-platform) · 2026.05.20
 - [node-schedule RecurrenceRule.year를 string으로 넘기면 무한 루프에 빠지는 이슈](https://iflov-github-io.vercel.app/blog/node-schedule-year-string-infinite-loop) · 2026.04.27
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 오픈소스
